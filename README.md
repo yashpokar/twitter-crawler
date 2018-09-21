@@ -1,7 +1,7 @@
 # twitter-crawler
 Twitter scrapy project
 
-> seriously twitter has not throttling strategy. Don't know why. May be at least someone is accessing twitter. 
+> seriously twitter has no throttling strategy. Don't know why. May be at least someone is accessing twitter. 
 
 change your mongodb setting,
 
