@@ -1,0 +1,9 @@
+*.pyc
+*.json
+*.html
+*.csv
+
+venv/
+*.egg-info/
+*/__pycache__/
+crawls/
